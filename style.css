@@ -1,0 +1,119 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: #40514E;
+    display: block;
+}
+
+div{
+	display: block;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-width: 5px;
+    width: 5%;
+    color: #EAF6F6;
+    margin: 50px auto 50px auto;
+}
+
+.texthead{
+	margin-top: 5px;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 30px;
+}
+
+.texthead{
+
+}
+
+.mountain{
+    width: 100%
+    bottom: 0;
+    left: 0;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 400px;
+}
+
+h1 {
+    margin: 50px auto 0px auto;
+    font-family: 'Merriweather', serif;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: "crimson text", serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    line-height: 2;
+}
+
+
+#girl{
+	padding-top: 30px;
+}
+
+a {
+    color: #11999E;
+    font-family: "crimson text", serif;
+    text-decoration: none;
+}
+
+.copyright {
+    color: #EAF6F6;
+    padding: 20px 0px;
+}
+
+
+.skill-row{
+	width: 60%;
+    margin: 25px auto 50px;
+    text-align: left;
+    line-height: 3;
+}
+
+.skillpic{
+    float: left;
+    margin-right: 20px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0px 20px;
+}
+
+#link{
+	color: white;
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+
+a:hover{
+	background-color: #c0c2c2;
+}
